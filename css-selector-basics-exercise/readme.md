@@ -1,6 +1,6 @@
 # CSS Selectors Basics Exercise
 
-Using what we've done in class, open the [starter code](starter-code) provided and see how far you can get through these exercises in 10 minutes:
+Using what we've done in class, open the [starter code](https://github.com/ATL-WDI-Exercises/css-selectors/tree/master/css-selector-basics-exercise/starter-code/independent-practice) provided and see how far you can get through these exercises in 10 minutes:
 
 - make an unordered HTML list of the following animals:  
 
